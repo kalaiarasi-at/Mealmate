@@ -1,0 +1,6 @@
+{
+  "name": "MealMate",
+  "description": "MealMate – Smart College Canteen Pre-Order Website. Good Food. Less Waiting. More Living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
